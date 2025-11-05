@@ -12,7 +12,7 @@
 
 **FASES Y ACTIVIDADES DEL PROYECO
 ...
->![Note]
+>[!Note]
 >Notas especiales
 
 
